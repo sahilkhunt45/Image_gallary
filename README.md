@@ -1,4 +1,4 @@
-# photo_slider
+# Gallary Images
 
 A new Flutter project.
 
