@@ -1,0 +1,58 @@
+[
+  {
+    "image": "assets/images/n.jpg",
+    "images": [
+      "assets/images/n1.jpg",
+      "assets/images/n2.jpg",
+      "assets/images/n3.jpg",
+      "assets/images/n4.jpg",
+      "assets/images/n5.jpg"
+    ]
+  },
+  {
+    "image": "assets/images/pain.jpg",
+    "images": [
+      "assets/images/p1.jpg",
+      "assets/images/p2.jpg",
+      "assets/images/p3.jpg",
+      "assets/images/p4.jpg"
+    ]
+  },
+  {
+    "image": "assets/images/minato.jpg",
+    "images": [
+      "assets/images/m1.jpg",
+      "assets/images/m2.jpg",
+      "assets/images/m3.jpg",
+      "assets/images/m4.jpg"
+    ]
+
+  },
+  {
+    "image": "assets/images/kakashi.jpg",
+    "images": [
+      "assets/images/k1.jpg",
+      "assets/images/k2.jpg",
+      "assets/images/k3.jpg",
+      "assets/images/k4.jpg"
+    ]
+  },
+  {
+   "image": "assets/images/itachis.jpg",
+    "images": [
+      "assets/images/u1.jpg",
+      "assets/images/u2.jpg",
+      "assets/images/u3.jpg",
+      "assets/images/u4.jpg"
+    ]
+  },
+  {
+    "image": "assets/images/obito.jpg",
+    "images": [
+      "assets/images/o1.jpg",
+      "assets/images/o2.jpg",
+      "assets/images/o3.jpg",
+      "assets/images/o4.jpg"
+    ]
+  }
+]
